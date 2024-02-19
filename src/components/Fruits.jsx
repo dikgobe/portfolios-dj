@@ -9,6 +9,7 @@ export default function()
         {name: 'pineapple',price: 88,emoji: '🍍'}
 
 
+    
     ]
 
     return <div>
